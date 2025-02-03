@@ -14,6 +14,10 @@ For installation instructions follow the eclipse guide README file. But it shoul
 
 4.     Click Finish
 
+After this, download and install BSim from Github.
+
+Copy and Paste BSimChemicalFieldTest from this github into the eclipse workspace.
+
 In this repository, there is a lot of different models for the FDF. For the standard FDF ABM used in the simulations, use the simple "BSimChemicalFieldTest"
 
 Choose to preview or export the data in the last command lines by commenting "//" over the option you do not want to run. The data will be available in the directory "results2" if the export is chosen. Click run.
