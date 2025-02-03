@@ -14,7 +14,7 @@ For installation instructions follow the eclipse guide README file. But it shoul
 
 4.     Click Finish
 
-After this, download and install BSim from Github.
+After this, download and install BSim from Github. https://github.com/CellSimulationLabs/bsim.git
 
 Copy and Paste BSimChemicalFieldTest from this github into the eclipse workspace.
 
